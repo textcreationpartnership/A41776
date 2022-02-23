@@ -1,0 +1,837 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the Baptist and the Presbyterian Wherein the Presbyterians are punished by their own pens, for their cruel and soul-devouring doctrines, making God the ordainer of all the sins of men and devils: and reprobating the greatest part of mankind, without any help of salvation. Whereunto is annexed, a treatise of election, intituled, The order of causes: formerly published by an eminent servant of Christ, and now republished with some explication concerning free-will. By Thomas Grantham, messenger of the baptized churches in Lincolnshire.</title>
+            <author>Grantham, Thomas, 1634-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41776</idno>
+            <idno type="STC">Wing G1530</idno>
+            <idno type="STC">ESTC R216815</idno>
+            <idno type="EEBO-CITATION">99828533</idno>
+            <idno type="PROQUEST">99828533</idno>
+            <idno type="VID">32962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1965:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the Baptist and the Presbyterian Wherein the Presbyterians are punished by their own pens, for their cruel and soul-devouring doctrines, making God the ordainer of all the sins of men and devils: and reprobating the greatest part of mankind, without any help of salvation. Whereunto is annexed, a treatise of election, intituled, The order of causes: formerly published by an eminent servant of Christ, and now republished with some explication concerning free-will. By Thomas Grantham, messenger of the baptized churches in Lincolnshire.</title>
+                  <author>Grantham, Thomas, 1634-1692.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect? Copy cataloqued lacks 'The order of causes' and text ends with 'A postscript'.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  England --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32962:1"/>
+            <p>A DIALOGUE Between the BAPTIST AND THE PRESBYTERIAN.</p>
+            <p>WHEREIN The <hi>Presbyterians</hi> are puniſhed by their own Pens, for their Cruel and Soul-devouring Doctrines, making God the Ordainer of all the Sins of Men and Devils: And reprobating the greateſt part of Mankind, with<g ref="char:EOLhyphen"/>out any help of Salvation.</p>
+            <p>
+               <hi>Whereunto is annexed,</hi> A Treatiſe of ELECTION, Intituled, <hi>The Order of Cauſes:</hi> Formerly publiſhed by an Eminent Ser<g ref="char:EOLhyphen"/>vant of Chriſt, and now republiſhed with ſome Ex<g ref="char:EOLhyphen"/>plication concerning FREE-WILL.</p>
+            <p>By <hi>THOMAS GRANTHAM,</hi> Meſſenger of the Baptized Churches in <hi>Lincolnſhire.</hi>
+            </p>
+            <q>
+               <bibl>Pſal. 64. 7, 8, 9.</bibl> 
+               <p>But God ſhall ſhoot at them with an Arrow, ſuddenly ſhall they be wounded. So ſhall they make their own Tongue to fall upon themſelves: all that ſee them, ſhall flee away. And all Men ſhall fear, and ſhall declare the Work of God; for they ſhall wiſely conſider of his doing.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1691.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:32962:2"/>
+            <pb n="3" facs="tcp:32962:2"/>
+            <head>
+               <hi>An Epiſtolary Preface, to the Citizens of the Ancient City of</hi> Norwich.</head>
+            <opener>
+               <salute>Honoured Sirs;</salute>
+            </opener>
+            <p>GOD's Providence having ordered my Refidence in this City<g ref="char:punc">▪</g> and my Buſineſs being to Preach the Goſpel, I have endeavou<g ref="char:EOLhyphen"/>red to perform my Office amongſt you; for which I have met with many unkind and undue Reflections, and more eſpecially from that ſort of Profeſſors who have eſpouſed the Principles and Doctrine of Mr. <hi>John Calvin,</hi> concerning his imaginary <hi>Decree of abſolute and irreſpective Reprobation.</hi>
+            </p>
+            <p>Two Confeſſions of Faith I find much received in this City, containing theſe words; <hi>God did from all Eternity, freely and unchangeably ordain ALL THINGS whatſoever come to paſs.—And that his Almighty Power extendeth it ſelf even to the firſt Fall, and all other Sins of Angels and Men, and that not by a bare permiſſion. And that By the Decree of God, ſome Angels and Men were fore-ordained to Everlaſting Death.—And that theſe Angels and Men, thus predeſtinated and fore-ordained, are particularly and unchangeably deſigned; and their Number ſo certain and de<g ref="char:EOLhyphen"/>finite, that it cannot be either encreaſed or diminiſhed.</hi> See the <hi>Conf. of Faith by the Aſſemb. of Divines.</hi> In which <hi>Confeſſion,</hi> they alſo teach, That God did not decree any of thoſe things, becauſe he foreſaw they would come to paſs: But they make the Decree of God the FIRST Cauſe of all things whatſoever comes to paſs, <hi>Chap.</hi> 5. <hi>Sect.</hi> 2. So that according to this Doctrine, all the Sins, both of Devils and Men, from the beginning to the end of the World, was by force of God's Decree, THE FIRST CAUSE, unavoidably neceſſary; and hereupon alſo the unavoidable Damnation of juſt ſuch a Number, both of Angels and Men, as God would have to be <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ed, and no more.</p>
+            <p>And hereupon it will follow, that God's Decree was <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that <hi>Cain</hi> killed his Brother <hi>Abel;</hi> that <hi>Ruben</hi> polluted his Fathe<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>David</hi> committed Adultery with <hi>Bathſheba,</hi> and murdered <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and of all the Villanies in the World. The odiouſneſs of w<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:32962:3"/>
+will better appear, if we put this Caſe: <hi>A</hi> oweth <hi>B</hi> 100 <hi>l.</hi> he pays it, for ſo it was decreed; but then comes <hi>C</hi> in the Night, and robs <hi>B</hi> of his 100 <hi>l.</hi> and alſo cuts his Throat. And this comes to paſs alſo by force of God's De<g ref="char:EOLhyphen"/>cree unavoidably; becauſe (ſay they) <hi>God did from all Eternity unchange<g ref="char:EOLhyphen"/>ably decree all things whatſoever comes to paſs.</hi> That I do them no wrong by thus ſpeaking, hear the words of <hi>Calvin</hi> himſelf, <hi>Inſt. L.</hi> 1. <hi>c.</hi> 17. <hi>Thieves and Murderers are the Inſtruments of Divine Providence, which the Lord himſelf uſeth to execute his Judgments, which he hath determined in himſelf, and that he works through them.</hi>
+            </p>
+            <p>When I had ſeriouſly conſidered, that many were enſnared in theſe dread<g ref="char:EOLhyphen"/>ful and blaſphemous Doctrines, to the exaſperating their Spirits, againſt the Truth of the Goſpel, and againſt ſuch as do ſincerely preach it as the Means of Salvation to all Men, ſcandalizing them by the Name of <hi>Free-willers,</hi> &amp;c. I did find my ſelf con<g ref="char:EOLhyphen"/>cern'd, to teſtify againſt this unmerciful Doctrine, and this unrighteous Accuſation about Free-will <note n="*" place="margin">Concerning which Point of Free-will, you ſhall have an Account in the laſt Treatiſe, where it will ap<g ref="char:EOLhyphen"/>pear, they that accuſe others, do hold as much as the Per<g ref="char:EOLhyphen"/>ſons they accuſe (if not more) concerning Free-will.</note>; And to preach the Everlaſting Goſpel, that God is <hi>not willing that any ſhould periſh, but that All ſhould come to repentance,</hi> 2 Pet. 3. 9. And being well aſſured of the ſincerity of my Doctrine and pur<g ref="char:EOLhyphen"/>poſe, I did as Occaſion offered aſſert the Truth, both by Word and Writing.</p>
+            <p>And hearing that Dr. <hi>John Collings</hi> was the greateſt Aſſertor of the <hi>Re<g ref="char:EOLhyphen"/>probatarian Principles;</hi> I found an opportunity to write to him, upon the occaſion of a Paſſage in his Book, Intituled, <hi>A Diſcourſe of Divine Love,</hi> pag. 259. which I now publiſh, with his Anſwer, and my Reply, to pre<g ref="char:EOLhyphen"/>vent and correct falſe Reports, which have gone abroad amongſt ſome con<g ref="char:EOLhyphen"/>cerning theſe Papers. The Doctor's Propoſition is this:</p>
+            <q>God cannot ſeriouſly act, and be finally oppoſed.</q>
+            <p>A dangerous Poſition it is; as if the final Impenitency of Sinners, were the iſſue of ſome want of ſeriouſneſs in God; that is, though he calls them to Repentance, yet he does not inwardly intend that they ſhall repent: and to this purpoſe he quotes ſeveral Scriptures; all which will be evident by the Papers following. My firſt to him proceeds thus.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:32962:3"/>
+                  <head>Some Obſervations upon a Paſſage of Dr. <hi>Collings,</hi> in his <hi>Diſcourſe of Divine Love,</hi> pag. 259. Viz. <hi>God cannot ſeriouſly act, and be finally oppoſed.</hi>
+                  </head>
+                  <p n="1">1. HEre the final Impenitency of Sinners is charged upon God, for that he is not ſerious in leading them to Repentance; directly contrary to the Word of God, <hi>Rom.</hi> 2. 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.</p>
+                  <p n="2">2. It reflecteth upon God's gracious Expoſtulation, and acting in a way of Mercy with <hi>Cain,</hi> (who oppoſed God finally) as if God was not ſe<g ref="char:EOLhyphen"/>rious with him.</p>
+                  <p n="3">3. It reflecteth upon God's ſtriving by his Spirit with the old World; as if God did not ſtrive ſeriouſly, nor act ſeriouſly by the preaching of <hi>Noah,</hi> wherein God waited long, and yet they oppoſed finally.</p>
+                  <p n="4">4. It reflecteth upon God's Counſel to the Phariſees, (quoted by the Doctor) as if he was not ſerious in that Counſel, which he by his Servant <hi>John the Baptiſt</hi> gave them, <hi>to bring forth Fruits meet for Repentance;</hi> for they reſiſted finally, as the Doctor himſelf intimates.</p>
+                  <p n="5">5. It renders God not ſerious in ſending his Prophets to turn <hi>Iſrael</hi> from their Iniquities, <hi>Jer.</hi> 7. 13. (which is quoted by the Doctor) for they did oppoſe finally, and were caſt out, and the Prophet was forbidden to pray for them, <hi>Jer.</hi> 7. 15, 16.</p>
+                  <p n="6">6. It impeacheth God as not ſerious, in calling <hi>Iſrael</hi> to Repentance, <hi>Pſal.</hi> 81. (quoted by the Doctor) for they oppoſed finally, and God gave them up <hi>to their own Hearts Luſts, and they walked in their own Counſels,</hi> Ver. 12.</p>
+                  <p n="7">7. The Doctor reflects diſhonour upon Chriſt, as not ſerious in his actings towards <hi>Jeruſalem,</hi> when he would have gathered them, (the words are quoted by the Doctor) when yet he wept over them, for their final Oppo<g ref="char:EOLhyphen"/>ſition. For the things which did once belong to their Peace, were now hid from their Eyes.</p>
+                  <p>Finally, The Doctor is humbly intreated, that he do not oppoſe God fi<g ref="char:EOLhyphen"/>nally, by ſuch Reflections as theſe, nor by finally rejecting the Counſel of God againſt himſelf, as the <hi>Phariſees</hi> did, for he hath been long under the Power of that Sin.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Norwich,</hi> 
+                        <date>Sept. 12. 1690.</date>
+                     </dateline>
+                     <signed>Tho. Grantham.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:32962:4"/>
+            <p>
+               <hi>Here follows the Doctor's Anſwer, dated</hi> Sept. <hi>12. 1690.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>I</hi> Received a Letter this Night, by an unknown Hand, from an unknown Perſon, who calleth himſelf <hi>Thomas Grantham:</hi> Whoſoever that <hi>Tho<g ref="char:EOLhyphen"/>mas Grantham</hi> be, I perceive he is one, that either knoweth God ſo little, as that he believeth him not Omnipotent, or of ſo little ſenſe, as to affirm Om<g ref="char:EOLhyphen"/>nipotency may be reſisted, when it ſeriouſly willeth to effect an End; which it cannot do, without a willing to put forth its utmoſt Power to effect it.</p>
+                  <p>He ſeems mightily ſcandalized at a Saying in a Book of Mine, on <hi>1 Cant. p. 259.</hi> God cannot ſeriouſly Act, and yet be finally reſisted. That is, he cannot act ſeriouſly, for any End or Effect, and be finally oppoſed as to that intended Effect. This Propoſition I thought had been ſecured, as well by that of the Apoſtle, <hi>Who hath reſiſted his Will at any time?</hi> As from the Nature of God, who is Almighty, and therefore cannot be finally oppoſed in what he reſolveth, [that is, willeth to effect:] but that God may be finally oppoſed in what he adviſeth or commandeth, none that ever I heard of yet denied.</p>
+                  <p>Well, but if this Gentleman may not have his Notion, the final Impeni<g ref="char:EOLhyphen"/>tence of Sinners muſt lie at God's Door, contrary <hi>R. 2. 2, 3, &amp;c.</hi> Firſt, Let the Author prove, That God willed their Repentance by an inward Act of his Will; for if he did not, his Act in calling them to Repentance, might have another End, as to which he was not, nor could not be oppoſed.</p>
+                  <p>The ſame muſt be proved, as to his Inſtances of the old World, the <hi>Pha<g ref="char:EOLhyphen"/>riſees,</hi> the <hi>Jews, &amp;c.</hi> Let him prove, that God within himſelf, willed the Eternal Salvation of theſe Perſons, and to do what in him lay towards it, and accordingly acted; or affirm that any reaſonable Creature, can ſeriouſly act for an End, and yet not inwardly will it, or put forth his Power in order to it.</p>
+                  <p>For his Admonition and Charge in the cloſe, I ſhall only ſay with the Apo<g ref="char:EOLhyphen"/>ſtle, It is a ſmall thing to be judged of Men, eſpecially Men who underſtand the Nature of God no better. But I have too much Buſineſs further to re<g ref="char:EOLhyphen"/>gard ſuch Impertinencies.</p>
+                  <closer>
+                     <signed>J. Collings.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:32962:4"/>
+            <p>To this Letter I ſent this Reply.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Reverend Sir,</salute>
+                  </opener>
+                  <p n="1">1. IN much faithfulneſs to God and you, I ſent you my Obſervations up<g ref="char:EOLhyphen"/>on your Poſition, <hi>i. e. God cannot ſeriouſly act, and be finally oppoſed;</hi> for I think you are the firſt Man that ever ſpake ſo of the God of Truth. But you perſiſt in it, and labour to defend it, by accuſing me of Ignorance about God's Omnipotency; And are you ſure you know him therein unto Perfection? You cannot fairly collect from my Paper, that God can be re<g ref="char:EOLhyphen"/>ſiſted in the thing wherein he will act Omnipotently, for then he ſhould ceaſe to be God. But does God never act Seriouſly when he doth not act Omnipotently? This, Sir ſeems to be your Notion, but it is far from Truth.</p>
+                  <p n="2">2. Nor do theſe words [who hath reſiſted his Will <hi>at any time]</hi> prove your Propoſition; for I find them not in the Bible. Indeed, St. <hi>Paul</hi> ſhews that ſome bold Spirits would be ready to interrogate the moſt High much after that rude manner, but I hope Dr. <hi>Collings</hi> will not do ſo. For he cannot but know, He has often reſiſted God when he ſeriouſly adviſed him to the contrary, as well as my ſelf and others have done, for which we ought to be greatly humbled. Let him not then think to defend him<g ref="char:EOLhyphen"/>ſelf by adding to the Text, leſt he be reproved.</p>
+                  <p n="3">3. You ſeem to hold that God cannot affect an End, [I ſuppoſe you mean, he cannot convert a Sinner] without a willing to put forth the ut<g ref="char:EOLhyphen"/>moſt of his Power to effect it. But you cannot give an Inſtance, where he ever did exert or put forth the utmoſt of his Power in any thing that ever he did. We muſt take heed we limit not the Power of the Almighty, leſt whileſt we accuſe others, we our ſelves prove our ſelves the moſt ig<g ref="char:EOLhyphen"/>norant of his Omnipotency.</p>
+                  <p n="4">4. You ſhould not alter the Terms of your Propoſition. But let us con<g ref="char:EOLhyphen"/>ſider what you now ſay; <hi>God cannot ſeriouſly act</hi> (you ſay) <hi>for any End or Effect, and be finally oppoſed as to that intended Effect.</hi> And yet you grant, God may be finally oppoſed in what he adviſeth or commands: but ſeeing you explain God's reſolving by his willing a thing, here ſeems to be a plain Contradiction, unleſs you can be ſo hardy as to ſay, when God Ad<g ref="char:EOLhyphen"/>viſeth or commands Men to forſake Evil, and learn to do well, his Will is not that they ſhould do ſo; and when he commands all Men every where to repent and obey his Voice, he inwardly never intends they ſhall do the one or the other, for he wills not that; and if he wills not that, then he
+<pb n="8" facs="tcp:32962:5"/>
+wills the contrary, that he may puniſh them for not doing that which he would not have them to do; or elſe he wills nothing at all, and ſo his Advice and Commands ſignify nothing. But indeed your meaning is, God commands and adviſeth Men well, but wills they ſhall not obey that; ſo he may damn them for not obeying, as appears in the cloſe of your <hi>2d Para<g ref="char:EOLhyphen"/>graph.</hi> And you alſo put me to prove, <hi>that God did will Sinners to Repen<g ref="char:EOLhyphen"/>tance,</hi> Rom. 2. <hi>by an inward Will.</hi> And what is this, but to tell the World, that God does not mean as he ſpeaks? Sir, Was it not the Riches of his Goodneſs, and his Long-ſuffering that ſhould have led them to Repentance? O no! you will imagine God had no ſuch End, but another, as to which God was not, nor could not be oppoſed, and that was not their Salvation; why then it muſt be their Damnation. But I had rather be<g ref="char:EOLhyphen"/>lieve the Apoſtle than you; he ſhews that God's end was to lead them to Repentance, and that is the way to Salvation.</p>
+                  <p n="5">5. But I muſt prove alſo, <hi>that God willed within himſelf, the Salvation of the old World, the Phariſees,</hi> &amp;c. whom he called to <hi>bring forth Fruits meet for Repentance;</hi> and that he willed the eternal Salvation of the Jews, <hi>Pſal.</hi> 81. and thoſe over whom Chriſt wept for their diſobedience <hi>with an inward Will.</hi>
+                  </p>
+                  <p n="1">1. Then for the old World, The Lord was ſo ſerious, and ſo inwardly concern'd, that he ſtrove with them by his Spirit; <hi>and it grieved him at his Heart</hi> that they were ſo diſobedient: and he gave them a Preacher of Righteouſneſs, and an hundred Years ſpace to repent in. And I think this ſhews that he inwardly willed their Repentance; yea, and I am ſure that had they repented, he would not have deſtroyed them, for he hath taught us ſo to judg of his Threatnings againſt ſinful Nations, <hi>Jer.</hi> 18. 7, 8. <hi>Jona</hi> 3. 10.</p>
+                  <p n="2">2. Is it poſſible that you ſhould call in queſtion God's Seriouſneſs with the Jews, <hi>Pſal.</hi> 81? Are not theſe his words? <hi>O that my People had heark<g ref="char:EOLhyphen"/>ned unto me, and</hi> Iſrael <hi>had walked in my Ways! verſ.</hi> 13. See alſo <hi>verſ.</hi> 8. 9, 10. and judg your ſelf. Surely if you, or any Man elſe, ſhould ſpeak thus to his Friends, or Enemies either, it would be great uncharitableneſs to think you were not ſerious, and had an inward will for their happi<g ref="char:EOLhyphen"/>neſs, unleſs we knew you to be a Diſſembler, [which temper cannot be found in God].</p>
+                  <p n="3">3. That Chriſt was [inwardly] ſerious in his endeavours to gather <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> appears by his Words, and by his Tears, which are ſuch as may even break an Heart of Stone. And ſure I am, God's Mind in ſending Chriſt to them was to turn EVERY ONE OF THEM AWAY FROM THEIR INI<g ref="char:EOLhyphen"/>QUITIES, Act 3. <hi>ult.</hi>
+                  </p>
+                  <p n="4">
+                     <pb n="9" facs="tcp:32962:5" rendition="simple:additions"/>
+4. Now for the <hi>Phariſees,</hi> they were part of the <hi>Jews</hi> to whom Chriſt was ſent, and in many things they were the beſt Sect of the Jewiſh People; and God did, by his Servant <hi>John,</hi> ſeriouſly call them to Repentance; yea, his Counſel was of God, <hi>Luk.</hi> 7. 29, 30. <hi>Who never ſaid to the Houſe of</hi> Iſ<g ref="char:EOLhyphen"/>rael, <hi>Seek ye me in vain.</hi> And yet if he were not now ſerious, but ſpake one thing, and thought another, yea, determined and reſolved another, you will then make him ſay to them, <hi>Seek ye me in vain.</hi> But far be it from the Almighty, that his Word ſhould be <hi>Yea</hi> and <hi>Nay.</hi> Sir, It is becauſe God is true, that his Miniſters may boldly aſſure poor Sinners that he wills not their Death, but that they turn and live; yea, he hath ſworn, <hi>He hath no pleaſure in the Death of the Wicked.</hi> And hence I conclude, [againſt your dangerous Poſition] that God is altogether ſerious, even as Seriouſneſs it ſelf.</p>
+                  <closer>
+                     <signed>Tho. Grantham.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To this Letter the Doctor gave no Reply. But a Friend of his ſent me a ſmall Paper of Verſes, as I ſuppoſe, to pick ſome Quarrel with me about <hi>Free-Will:</hi> And thus they ſpeak.</p>
+            <q>
+               <lg>
+                  <l>IF Faith be not, what can we then foreſee?</l>
+                  <l>Or, how can we avoid it if it be?</l>
+                  <l>If by Free-Will in our own Acts we move,</l>
+                  <l>How are we bounded by Decrees above?</l>
+                  <l>So whether we drive, or whether we be driven;</l>
+                  <l>If Ill, it's ours; if Good, the Act of Heaven.</l>
+               </lg>
+            </q>
+            <p>
+               <hi>To this captious piece of Poetry, I made this ſhort return.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>OUR own Free-Will! 'Tis non-ſenſe, ſince 'tis true,</l>
+                  <l>
+                     <hi>Our own we are not;</hi> Then our Will is due</l>
+                  <l>To him that made us; and when we were loſt,</l>
+                  <l>Reſtor'd our Loſs at his own proper Coſt.</l>
+                  <l>Free-Will's more talk'd of, than well underſtood;</l>
+                  <l>That Will's not truly free, that is not good.</l>
+                  <l>God is no Author of the Will that's Evil;</l>
+                  <l>The Will that leads to Sin is of the Devil.</l>
+                  <l>Decrees from Heaven reſtrain, not farther Sin;</l>
+                  <l>Much leſs does <hi>cauſe Sin.</hi> For it did begin</l>
+                  <pb n="10" facs="tcp:32962:6"/>
+                  <l>From Satan; This God's Word does plainly ſhew,</l>
+                  <l>Who charge't on Heaven's Decrees, their Charge will rue.</l>
+                  <l>
+                     <hi>Norwich,</hi> whence came this Leaven into thee,</l>
+                  <l>To fix thy Sin firſt upon God's Decree?</l>
+                  <closer>
+                     <signed>T. G.</signed>
+                  </closer>
+               </lg>
+            </q>
+            <p>After this another nameleſs Poet aſſaults me; but his Lines being ſo ex<g ref="char:EOLhyphen"/>ceeding ridiculous, it would but prophane the <hi>Muſes</hi> to commit them to Poſterity: And becauſe their chief Clamour was againſt my preaching, <hi>that Chriſt died for all Men;</hi> and for that cauſe calling me <hi>a falſe Teacher,</hi> I re<g ref="char:EOLhyphen"/>ſolved to try whether plain Scripture, without my Commentary, would paſs for currant amongſt our <hi>Reprobatarians,</hi> wherefore I wrote as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Nameleſs and Nonſenſical Poet.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>YOur great Quarrel is, becauſe I teach this Doctrine, <hi>That Chriſt died for all, and not only for ſome.</hi>
+                  </p>
+                  <p>Now thus ſaith the Lord,
+<q>
+                        <p>
+                           <hi>We ſee Jeſus made a little lower than the Angels, for the ſuf<g ref="char:EOLhyphen"/>fering of Death,—that he by the Grace of God ſhould taſte Death</hi> 
+                           <note place="margin">Heb. 2. 9.</note> 
+                           <hi>for every Man.</hi>
+                        </p>
+                        <p>
+                           <hi>He is a Propitiation for our Sins: and not for ours only, but</hi> 
+                           <note place="margin">1 Joh. 2. 2.</note> 
+                           <hi>alſo for the Sins of the whole World.</hi>
+                        </p>
+                        <p>
+                           <hi>He gave himſelf a Ranſom for all.</hi> 
+                           <note place="margin">1 Tim. 2. 6.</note>
+                        </p>
+                        <p>
+                           <hi>And if one died for all, then were all dead: And that he died</hi> 
+                           <note place="margin">2 Cor. 5. 14, 15.</note> 
+                           <hi>for all—.</hi>
+                        </p>
+                        <p>
+                           <hi>The Bread that I will give, is my Fleſh, which I will give for the</hi> 
+                           <note place="margin">Joh. 6. 51.</note> 
+                           <hi>Life of the World.</hi>
+                        </p>
+                        <p>
+                           <hi>God is the Saviour of all Men, ſpecially of them that believe.</hi> 
+                           <note place="margin">1 Tim. 4. 10.</note>
+                        </p>
+                        <p>
+                           <hi>This is good and acceptable in the ſight of God our Saviour; who will have All Men to be ſaved, and come to the knowledg of</hi> 
+                           <note place="margin">1 Tim. 2. 3, 4.</note> 
+                           <hi>the Truth.</hi>
+                        </p>
+                        <p>
+                           <hi>Not willing that any ſhould periſh, but that All ſhould come to</hi> 
+                           <note place="margin">2 Pet. 3. 9.</note> 
+                           <hi>Repentance.</hi>
+                        </p>
+                        <p>
+                           <pb n="11" facs="tcp:32962:6"/>
+                           <hi>And he commandeth All Men every where to repent.</hi> 
+                           <note place="margin">Act. 17. 30.</note>
+                        </p>
+                        <p>
+                           <hi>As by the Offence of One, judgment came on all Men; even ſo</hi> 
+                           <note place="margin">Rom. 5. 18.</note> 
+                           <hi>by the Righteouſneſs of One, the free Gift came upon All Men to ju<g ref="char:EOLhyphen"/>ſtification of Life.</hi>
+                        </p>
+                        <p>
+                           <hi>For as in</hi> Adam <hi>all die, even ſo in Chriſt ſhall all be made alive.</hi> 
+                           <note place="margin">1 Cor. 15. 22.</note>
+                        </p>
+                        <p>
+                           <hi>They that have done Good, to the Reſurrection of Life; and they that have done Evil, to the Reſurrection of Damnation.</hi> 
+                           <note place="margin">Joh. 5. 29.</note>
+                        </p>
+                        <p>
+                           <hi>Denying the Lord that bought them, and bring upon themſelves</hi> 
+                           <note place="margin">2 Pet. 2. 1.</note> 
+                           <hi>ſwift Deſtruction.</hi>
+                        </p>
+                        <p>
+                           <hi>For God ſent not his Son into the World to condemn the World;</hi> 
+                           <note place="margin">John 3. 17, 18.</note> 
+                           <hi>but that the World through him might be ſaved. He that believeth on him, is not condemned; but he that believeth not, is condemned already, becauſe he hath not believed in the Name of the only begot<g ref="char:EOLhyphen"/>ten Son of God.</hi>
+                        </p>
+                        <p>
+                           <hi>God will judg the Secrets of Men according to the Goſpel.</hi> 
+                           <note place="margin">Rom. 2. 16</note>
+                        </p>
+                        <p>
+                           <hi>Which hath been preached to every Creature under Heaven.</hi> 
+                           <note place="margin">Col. 1. 23.</note>
+                        </p>
+                        <p>
+                           <hi>He hath ſhewed thee, O Man, what is good.</hi> 
+                           <note place="margin">Mich. 6. 8.</note>
+                        </p>
+                        <p>
+                           <hi>The Lord is gracious, and full of compaſſion, flow to anger,</hi> 
+                           <note place="margin">Pſ. 103. 8.</note> 
+                           <hi>and of great Mercy.</hi>
+                        </p>
+                        <p>
+                           <hi>The Lord is good to all, and his tender Mercies are over all his</hi> 
+                           <note place="margin">Pſ. 145. 9.</note> 
+                           <hi>Works.</hi>
+                        </p>
+                     </q>
+                  </p>
+                  <p>By theſe Authorities I teach, that Chriſt died for All.</p>
+                  <p>Now, Sir, ſhew me (if you can) where the Scripture tells us, <hi>that Chriſt died</hi> BUT <hi>for ſome only,</hi> and <hi>not for all.</hi> For hitherto I have not met with any ſuch Teſtimony in the Word of God.</p>
+                  <p>And ſeeing you think Chriſt died but for ſome only, ſhew me ſufficient Teſtimony from the Scripture, that he died for your ſelf: And name one (if you can) now living in this great City, for whom Chriſt died not. And when you have done theſe things well, you may expect ſome further Account of your Paper.</p>
+                  <closer>
+                     <signed>Your abuſed Friend,
+<hi>Tho. Grantham.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Finally; To give you ſome Account of the <hi>Dialogue</hi> and Treatiſe en<g ref="char:EOLhyphen"/>ſuing. For the firſt; Being a great diſtance from my Study, I could not have the help of my own Books. The Collection therefore which I here give you, I have taken from ſeveral Writers, but chiefly from Mr. <hi>Tho. Pierce,</hi>
+               <pb n="12" facs="tcp:32962:7"/>
+(a Perſon of great Learning and Judgment); 1. From his <hi>Correct Copy of Notes.</hi> 2. His <hi>Divine Philanthropie defended.</hi> 3. His <hi>Divine Purity defen<g ref="char:EOLhyphen"/>ded.</hi> 4. <hi>The Self-Revenger exemplified,</hi> in Mr. <hi>B.</hi> And, 5. <hi>Self-Condemnation exemplified in Mr.</hi> W. <hi>and others.</hi> Where the ſtudious Reader may not on<g ref="char:EOLhyphen"/>ly find thoſe Quotations more fully ſet down, and perhaps more exactly quoted, but alſo very well maintained, (againſt his learned Adverſaries who have laboured to excuſe them, and to palliate the Diſeaſe which they diſco<g ref="char:EOLhyphen"/>ver); and therefore I have the more willingly made this preſent uſe of them, I hope without his Offence.</p>
+            <p>For the Treatiſe, you will therein find the Caſe of <hi>Election</hi> clearly hand<g ref="char:EOLhyphen"/>led, and ſo familiarly demonſtrated according to Scripture-Light, that the meaneſt Capacity may arrive at competent Satisfaction, and be delivered from the diſmal Snares wherewith the World hath been encumbered by Mens preſumptuous pretending to know a ſecret Will in God, contrary to his re<g ref="char:EOLhyphen"/>vealed Will in his Word: Which is a vile Abſurdity, and calls in queſtion the Veracity of the Almighty, <hi>with whom is no variableneſs, nor ſhadow of turning.</hi>
+            </p>
+            <closer>
+               <signed>Your Servant for Jeſus ſake,
+<hi>Tho. Grantham.</hi>
+               </signed>
+               <dateline>
+                  <hi>Norwich,</hi> 
+                  <date>
+                     <hi>12th</hi> Month, (vulg. <hi>Feb.)</hi> 1690.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="13" facs="tcp:32962:7"/>
+            <head>
+               <hi>A Brief Dialogue, wherein the</hi> Presbyterians <hi>are puniſhed by their own Pens.</hi>
+            </head>
+            <sp>
+               <speaker>Baptiſt.</speaker>
+               <p>WEll met, Sir; I have ſomewhat to ſay unto you.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyterian.</speaker>
+               <p>Pray ſay on, I would know what is the matter.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>I was reading an Author the other day, and he declares, That the Doctrine of the Presbyterians is blaſphemous againſt God, and cruel to Mankind, making God the Author of all Sin, and the deſtroyer of Man<g ref="char:EOLhyphen"/>kind, in the greateſt part, without any Mercy, or help for their Salvation.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>This is an heavy Charge indeed, but it is not true in this, we do not make God the Author of Sin. We do ſay indeed, by our <hi>Confeſſion of Faith</hi> made by <hi>the Aſſembly of Divines,</hi> and <hi>approved by the General Aſ<g ref="char:EOLhyphen"/>ſembly of the Kirk of</hi> Scotland, <hi>That God did from all Eternity, freely and unchangeably ordain whatſoever comes to paſs,</hi> Chap. 3.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>But when you ſay that <hi>God did freely and unchangeably ordain whatſoever comes to paſs,</hi> do you mean that God ordain'd all the Sins of Angels and Men, that they ſhould come to paſs, of neceſſity or unavoi<g ref="char:EOLhyphen"/>dably?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes, that is our very meaning; for we tell you in the ſame Book, Chap. 5. <hi>That the Almighty Power of God, extends it ſelf to the firſt Fall, and all other Sins of Angels and Men, and that not by a bare Permiſſion,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>What do you mean, by the Almighty Power of God extending it ſelf to the firſt Fall, and all other Sins of Angels and Men?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>We mean, and ſay in expreſs words, That by a neceſſity of divine Providence the Fall of <hi>Adam</hi> did neceſſarily happen, that God made <hi>A<g ref="char:EOLhyphen"/>dam</hi> and <hi>Eve</hi> to this very purpoſe, that he might ſuffer them to be tempt<g ref="char:EOLhyphen"/>ed, and led into Sin, and that by force of his Counſel or Decree, it could not otherwiſe be, but that they muſt ſin. <hi>Piſcat. Diſp. Pref.</hi> p. 6.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>This ſeems very ſtrange that God ſhould lay <hi>Adam</hi> under a neceſſity of Sinning.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>It could not otherwiſe happen than God had ordain'd; and in reſpect of God's Decree, there is no contingency (or condition) in the World.
+<pb n="14" facs="tcp:32962:8"/>
+And therefore <hi>Adam</hi>'s change from Good to Evil, was abſolutely neceſſary to the execution of God's Decree. <hi>Piſcat. Diſp. praedeſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>But do you not ground this Decree upon God's Foreknowledge, rather than upon his Will?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God foreſees nothing but what he hath decreed, and his Decree doth precede (or go before) his Knowledge. <hi>Adam</hi> neceſſarily fell in reſpect of God, and it behoved him to Sin, not by the idle permiſſion of God ſeparate from his Will and Decree. <hi>Piſcat. Diſp. praedeſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Can any ſatisfactory Reaſon be given for this Doctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Man doth fall, God's Providence ſo ordaining it. And the firſt Man fell, becauſe the Lord thought it expedient: why he thought it expe<g ref="char:EOLhyphen"/>dient we cannot tell. <hi>Calvin. Inſt. l</hi> 3. <hi>c.</hi> 23. <hi>ſect.</hi> 8.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>By this Doctrine you make God the Author of Sin, though you would deny it.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God doth holily drive, or thruſt Men on to Sin or Wickedneſs, that he may puniſh Sins with Sins. God is the Author of Sin one way, and the Devil another; <hi>yet we ſay,</hi> God is the Author, not of theſe Actions alone, in and with which Sin is, but of the very Pravity, Ataxy, Anome, Irre<g ref="char:EOLhyphen"/>gularity and Sinfulneſs it ſelf which is in them; yea, that God hath more hand in Mens Sinfulneſs, than they themſelves. <hi>Comfort. for Believ. p.</hi> 36, 37.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>How it is poſſible that the Holy God ſhould have any will to, or hand in, the Sins of Devils and Men?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Adultery or Murther is the Work of God the Author, ſaith <hi>Zuingl. de. Prov. c.</hi> 6. God may ſeem not to be the cauſe of human Actions only, but of the very Defects and Privations which cleave unto them, <hi>Pet. Mart.</hi> in 1 <hi>Sam. c.</hi> 2. God procures Adultery, Curſings, Lyings, <hi>Piſcat. Reſp. ad Apol. Britii.</hi> p. 143. All wicked Men do all that they do by force of God's Will, <hi>idem Reſp. ad Tauff. p.</hi> 65. God efficaciouſly acteth, or effecteth, and by his efficacy performeth all things without any the leaſt exception. <hi>Beza cont. Caſtel. Aphoriſ.</hi> 1, 6, 7.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Theſe are very unſavory Speeches. I ever thought, and do yet believe that the Devil and wicked Men are the Authors of all Sin; and that God only ſuffers Sin, that is, he doth not by violence always hinder them, though he does often reſtrain them, and graciouſly prohibits all Sin under pain of his diſpleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>The Devil and Wicked Men are ſo reſtrained on every ſide with the Hand of God, as with a Bridle, that they cannot conceive, nor con<g ref="char:EOLhyphen"/>trive, nor execute any Miſchief, nor ſo much as endeavour its execution, any further than God himſelf doth not permit only, but command; nor
+<pb n="15" facs="tcp:32962:8"/>
+are they only held in Fetters, but compelled alſo as with a Bridle to per<g ref="char:EOLhyphen"/>form Obedience to ſuch Commands. <hi>Calvin. Inſt. l.</hi> 1. <hi>c.</hi> 17. God ex<g ref="char:EOLhyphen"/>citeth Men to the act of Adultery, that he ſtirreth them up to unjuſt Acts, as a Man puts Spurs to a dull Jade. Mr. <hi>Barlee cont.</hi> Mr. <hi>T. P.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Certainly the Original of Sin is Satan's Malice, and the Luſts of the Fleſh, and cannot be bottomed on God's Decree, for he tempteth not any Man; nor on his Commands, for they prohibit all Sin.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God's Decree, by which any is deſtin'd to Condemnation, is not an Act of Juſtice, nor doth his Decree preſuppoſe Sin—When God makes an Angel or a Man a Tranſgreſſor, he himſelf doth not tranſgreſs becauſe he doth not break a Law. The ſame Sin, <hi>viz.</hi> Adultery or Murther, inaſ<g ref="char:EOLhyphen"/>much as it is the Work of God, the Author, Mover, and Compeller, it is not a Crime; but in aſmuch as it is of Man, it is Wickedneſs. Dr. <hi>Twiſs, in Serm. de Prov.</hi> See Mr. <hi>Peirce, Correct Cop. p.</hi> 10.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>This is highly groſs, that you ſhould charge God with making the Devils and Men Tranſgreſſors; whereas <hi>God made Man upright, but he hath ſought out many Inventions.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God doth ſtir up the Devil to lie, and is in ſome manner the cauſe of Sin, and thruſteth on the Wills of the Wicked to grievous Sins. <hi>Pet. Vermil. in Ep. ad Rom. p.</hi> 403, 406. and 38. Yea, God doth incite, ſe<g ref="char:EOLhyphen"/>duce, draw, command, harden, and inject Deceptions, and effecteth thoſe things which are grievous Sins. <hi>Piſcat. ad Amic. Dupl. Vorſtii,</hi> p. 176.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>By this Doctrine you make Man an inſignificant Cypher, and God the principal Actor in all Wickedneſs. But ſeeing the Elect do ſin as well as others, Who is the Cauſe of their Sins?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Though Reprobates are predeſtinated to Damnation, and to the Cauſes of Damnation, and created to that end that they may live wickedly, and be Veſſels full of the Dregs of Sin; yet it follows not that God's abſolute Decree is the Cauſe of all the Villanies and Lewdneſſes in the World, be<g ref="char:EOLhyphen"/>cauſe, beſides the Sins of the Reprobates, there are alſo other Villanies committed, namely by the Elect. <hi>Piſcat. cont. Tauff.</hi> p. 47.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>But you do not anſwer the Queſtion, Whether did God decree that the Elect ſhould ſin?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Nothing is done without God's Will, no not without his Operation; for God worketh all things in all Men, therefore he willeth and effecteth that ungodly Men do live in their Concupiſcences. <hi>Trigland. Apol.</hi> p. 172.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>But why do not you anſwer the Queſtion directly, Whether God decreed all the Villanies committed by the Elect?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God doth incite, ſeduce, draw and harden, and inject Deceptions; and doth or effecteth thoſe things which are hainous and grievous Sins. <hi>Mart.</hi> in <hi>Judg.</hi> 3. 9. P. 49.</p>
+            </sp>
+            <pb facs="tcp:32962:9"/>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <sp>
+               <pb n="17" facs="tcp:32962:9"/>
+               <p>ſo of periſhing by this Ordination of God; and ſo compelled, that they cannot chuſe but ſin and periſh. <hi>Zanch. de Nat. Dei, l.</hi> 5. <hi>c.</hi> 2. Man doth that which is not lawful for him to do, by the juſt impulſe of God. <hi>Calv. Inſt. l.</hi> 1. <hi>c.</hi> 18.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>If things be thus as you teach, Why does God call upon Men to abſtain from every appearance of Evil, and to do Good?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God directeth his Voice to ſome Men, but that they may be ſo much the deafer; he gives Light to ſome Men, but that they may be ſo much the blinder; he offers them Inſtruction, but that they may be the more igno<g ref="char:EOLhyphen"/>rant; and he uſeth a Remedy, but to the end they may not be healed. <hi>Calv. lib.</hi> 3. <hi>c.</hi> 24.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Why, does God ſpeak one thing, and mean another quite contra<g ref="char:EOLhyphen"/>ry thereunto? How then is he ſerious?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God cannot ſeriouſly act, and be finally oppoſed, Dr. <hi>Collings, ut ſu<g ref="char:EOLhyphen"/>pra.</hi> God can will that Man ſhall not fall by his Will, which is called <hi>vo<g ref="char:EOLhyphen"/>luntas ſigni,</hi> (his revealed Will); and in the mean time ordain, that the ſame Man ſhall infallibly and efficaciouſly fall by his Will, which is called <hi>voluntas beneplaciti, (viz.</hi> his acceptable Will): The former Will of God is improperly called his Will, for it only ſignifies what Man ought to do by right; but the latter Will is properly called a Will, becauſe by that he de<g ref="char:EOLhyphen"/>creed what ſhould inevitably come to paſs. See Mr. <hi>Pierce Correct Copy,</hi> p. 9.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>By your Doctrine I perceive you hold, that the number of the Sa<g ref="char:EOLhyphen"/>ved, and the number of the Damned, were unalterably determined, before there was ſo much as one Man created.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Yes, we ſay, by the Decree of God for the manifeſtation of his Glo<g ref="char:EOLhyphen"/>ry, ſome Men and Angels are predeſtinated unto Everlaſting Life, and others fore-ordained to Everlaſting Deſtruction; and thoſe Angels and Men thus predeſtinated, and fore-ordained, are particularly and unchangeably de<g ref="char:EOLhyphen"/>ſigned; and their Number ſo certain and definite, that it cannot be either encreaſed or diminiſhed. <hi>Aſſemb. Catechiſ.</hi> c. 3. ſect. 3, 4.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Why then is the Goſpel preached to Men thus determin'd to Dam<g ref="char:EOLhyphen"/>nation?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>It muſt neceſſarily follow that Chriſt is preached to them to aggra<g ref="char:EOLhyphen"/>vate their Damnation. <hi>Dantil. cont. Anonimum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>You make the Caſe of the greateſt part of Men grown deplorable, without Remedy. Pray, What do you think of the Caſe of dying In<g ref="char:EOLhyphen"/>fants?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Elect Infants dying in Infancy, are regenerated and ſaved by Chriſt through the Spirit. <hi>Aſſemb. Catechiſ.</hi> c. 10. ſect. 3. And of the reſt Mr. <hi>Calvin</hi> ſaith, That ſo many Nations of Men, together with their In<g ref="char:EOLhyphen"/>fants,
+<pb n="18" facs="tcp:32962:10"/>
+were involved without Remedy, in Eternal Puniſhment, by the Fall of <hi>Adam,</hi> for no imaginable Reaſon, but that ſo it ſeemed good in the ſight of God. <hi>Inſt. l.</hi> 3. <hi>c.</hi> 23. <hi>ſect.</hi> 7.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>That God does cleanſe dying Infants, and fits them for Heaven, I readily grant. But what do you mean by regenerating Infants?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>They muſt be regenerate, and have Faith ſome way, elſe they muſt periſh. They who are regenerated, have Faith and Repentance. But all Infants ſaved, are regenerated. Therefore all Infants ſaved have Faith and Repentance. They muſt be born of Water, and the Spirit, according to <hi>John</hi> 3. 6. elſe there is no Heaven for them. Mr. <hi>Firmin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>What manner of Faith and Repentance is this you talk of?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>It is Seminal Faith, and Seminal Repentence. Mr. <hi>Firmin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>But you know not what kind of Faith this is, nor can you tell what Infants have it; and ſo you cannot tell that one Infant dying, is ſaved, by this Seminal Faith and Repentance; or, are you ſo charitable to think that all Infants have this Faith Seminal, and this Seminal Repentance?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I aver, (how cruel ſoever I may be judged) that no Unbeliever can, according to any Divine Revelation, have any aſſured hope of their own, or their Childrens Salvation who die in their Infancy. Mr. <hi>Whiſton, Right Me<g ref="char:EOLhyphen"/>thod,</hi> p. 46.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Lo how you would fill Hell with multitudes of poor dying Infants; but how then has God ſaid, that <hi>he hath no pleaſure in the Death of the wicked,</hi> if it be as Mr. <hi>Calvin</hi> and you teach, that both they and their In<g ref="char:EOLhyphen"/>fants are damned without Remedy?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>God wills not the death of a Sinner, ſo far forth as he wills his Re<g ref="char:EOLhyphen"/>pentance, which experience teacheth, that he doth ſo will as not to touch his Heart that he may repent. <hi>Calv. in Ezek.</hi> 18. The Sin of Incredulity doth depend upon God's Praedeſtination, as the Effect upon the Cauſe. <hi>Piſcat. ad Dupl. Vorſt.</hi> p. 10, 11. God doth effect in them an Incredu<g ref="char:EOLhyphen"/>lity, in as much as he blindeth them whilſt the Goſpel is preached. <hi>p.</hi> 25, 27. All things which ſhall be, ſhall be by the inevitable Counſels and Decrees of God. <hi>Mart. Borrhaus in Deut.</hi> 47. p. 924.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>You ſhould have ſaid, that Men do harden their Hearts, and reſiſt the Holy Ghoſt; but I am ſorry that ſo many Learned Writers ſhould repre<g ref="char:EOLhyphen"/>ſent God at ſuch a dreadful rate, not only to make Angels and Men to damn them, but alſo to make them Sinners that he may damn them. What is this but to make God the greateſt Sinner? which is blaſphemous.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I have told you already, That when God makes an Angel or a Man, a Tranſgreſſor, he himſelf doth not tranſgreſs, becauſe he doth not break a Law. The very ſame Sin, <hi>viz.</hi> Adultery or Murther, inaſmuch as it is the
+<pb n="19" facs="tcp:32962:10"/>
+Work of God, the Author, Mover, and Compeller, it is not a Crime; but in as much as it is of Man, it is Wickedneſs.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Certainly theſe things hitherto aſſerted by you are dreadfully Blaſ<g ref="char:EOLhyphen"/>phemous, and more like the Doctrine of the <hi>Turks,</hi> than of true <hi>Chriſti<g ref="char:EOLhyphen"/>ans,</hi> and ought to be exploded with the ſame deteſtation which was wont to be made (as my Author ſheweth) in theſe words.</p>
+               <p>I do Anathematize the Blaſphemy <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> of <hi>Mahomed,</hi> ſaying, That God de<g ref="char:EOLhyphen"/>ceiveth whom he will, and whom he will he leadeth to what is good; for if God would, Men would not war one with another; but he doth what he will, and is himſelf the cauſe of all Good, and of all Evil; all things are governed by Fate and Deſtiny. <hi>Nicetus Saracenita.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>Our Doctrine is more ancient than <hi>Mahomet;</hi> St. <hi>Auguſtin</hi> did maintain it; It is certain that <hi>Judas</hi> could not but betray Chriſt, ſeeing God's Decrees are immutable. And whether a Man bleſs or curſe, he al<g ref="char:EOLhyphen"/>ways doth it neceſſarily in reſpect of God's Providence; and in ſo doing, he doth always according to the Will of God. <hi>Piſcat. de Praedeſt. Theſ.</hi> 12. 1.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Antiquity, for the firſt four Centuries, is againſt your Doctrine <hi>Auguſtin,</hi> tho ſometime tinctured with it, yet upon better Advice exclaims againſt it. And as to the Inſtance of <hi>Judas,</hi> Antiquity is againſt you. For thus ſaith <hi>Chryſoſtome;</hi>
+               </p>
+               <p>Judas, <hi>my Beloved, was at firſt a</hi> 
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Child of the Kingdom, when he heard it ſaid to him with the Diſciples, Ye ſhall ſit on twelve Thrones; but at laſt he became a Child of Hell.</hi> Chryſoſt. Orat. 52. <hi>as quoted by Mr.</hi> J. Good<g ref="char:EOLhyphen"/>win.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>I perceive you hold, that a Child of God may poſſibly fall away and periſh. This is a dangerous Error.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>That <hi>ſome may depart from the Faith, giving heed to ſeducing Spi<g ref="char:EOLhyphen"/>rits,</hi> is clear in the Word of God, and of this fall I doubt the <hi>Presbyteri<g ref="char:EOLhyphen"/>ans,</hi> many of them, are a terrible Inſtance, as well as others. Nor need any Man ſay more concerning falling away than they do in their <hi>Confeſſ. of Faith,</hi> made by the <hi>Aſſembly of Divines;</hi> for as they deny not but that there
+<pb n="20" facs="tcp:32962:11"/>
+are <hi>temporary Believers,</hi> and truly ſuch are all that fall away. So they plain<g ref="char:EOLhyphen"/>ly tell us,</p>
+               <p>
+                  <hi>That the pureſt Churches under Heaven are ſubject to Mixtur<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Er<g ref="char:EOLhyphen"/>ror; and ſome have ſo degenerated, as to become no Churches of Chriſt, but Synagogues of Satan.</hi> Chap. 25. Sec. 5.</p>
+               <p>Surely the pureſt Churches under Heaven are true Believers; and if theſe pureſt Churches may become the Synagogues of Satan, it is too much to prove the Point.</p>
+               <p>For my part, though I doubt not but there is a ſtate attainable, even in this Life, from which by the Grace of God Chriſtians ſhall not fall; yet I hold it a vanity for any Man to affirm of himſelf, or of any other Perſon in particular, that it is impoſſible for him to fall. I hold it better by far, for the beſt, as well as others, to take heed leſt they fall. And here the Decree concerning Reprobation may be uſeful; for God never made it to cauſe Men to be Reprobates, but to hinder them from being ſuch; like as all good Laws made againſt <hi>Treaſon</hi> and <hi>Felony,</hi> were not made to make Men <hi>Traitors</hi> or <hi>Felons,</hi> but to prevent them that they might not be <hi>Traitors</hi> nor <hi>Felons.</hi>
+               </p>
+               <p>Let us not then turn the Goodneſs of our God into Perverſeneſs, nor his Grace into Wantonneſs, by thinking he will damn any Man, without firſt ſhewing Mercy; or ſave us of neceſſity; for <hi>is God unrighteous, who taketh vengeance: how then ſhall he judg the World?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But why do you ſuggeſt your fears that the <hi>Presbyterians</hi> are a terri<g ref="char:EOLhyphen"/>ble inſtance of falling away, as well as others?</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Becauſe they have received a Doctrine, the Tenour of which is ſuch, that no Man which receiveth it, can have any true or well-grounded Faith: for if God did extend the Death of Chriſt to ſcarce one Man of an hundred, how is it poſſible for any Man to know aſſuredly that Chriſt died for him in particular? He may have an opinion Chriſt died for him; but he cannot be ſure of it, ſeeing the certain knowledg who Chriſt died for, muſt not be built upon any good which we conceive to be wrought in us, but upon the clear teſtimony of the Word of God. <hi>Faith comes by hearing, and hearing by the Word of God.</hi> Rom 10. Hence all are bound to believe under pain of Damnation, <hi>Mark</hi> 16. 16.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>We deny, by the Pen of Mr. <hi>Whitfield,</hi> p. 75. that all Men are commanded to believe, but only the leaſt part of the World: and Mr. <hi>Brinſley</hi> tells us, There ſhould no Goſpel be preached, but for the Elects ſake. And Mr. <hi>Calvin</hi> ſaith, That ſo many Nations of Men, together
+<pb n="21" facs="tcp:32962:11"/>
+with their Infants, were involved WITHOUT REMEDY in eternal Pu<g ref="char:EOLhyphen"/>niſhment, by the fall of <hi>Adam</hi> [and he fell, becauſe God thought it ex<g ref="char:EOLhyphen"/>pedient] for no imaginable Reaſon, but that ſo it ſeemed good in the ſight of God. <hi>Calv. Inſt. l.</hi> 3. <hi>c.</hi> 23. And hence we conclude, that thoſe Nations which have not the light of the Goſpel, Chriſt died not for them; for if God gave his Son to die for them, which is the greater, he would not deny them the Goſpel which is the leſſer. <hi>B. K. Serm. and Letter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>That God is known throughout the whole World to be Propiti<g ref="char:EOLhyphen"/>ous, Gracious and Merciful, cannot be denied; and where God is known to be gracious, pardoning Sin upon Repentance, he is known in Chriſt, though the Name of Chriſt be not known; and indeed few knew him by that Name of <hi>Jeſus Chriſt,</hi> till he was born of the Virgin. And that God has taken care that his Name, <hi>Gracious and Merciful,</hi> ſhould be known throughout the World, is evident, not only by the Holy Scriptures, but by the Writings of the <hi>Heathen;</hi> yea, the <hi>Turks</hi> themſelves, though they are for <hi>Deſtiny,</hi> yet begin almoſt every Chapter of their <hi>Alcoran</hi> with theſe words; <hi>In the Name of God Gracious and Merciful.</hi>
+               </p>
+               <p>And <hi>Proſper (Auguſtin</hi>'s Diſciple) <hi>De vocatione Gentium,</hi> ſhews, Tha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God did never leave himſelf without Witneſs in any part of the World, <hi>Act.</hi> 4. 17. which he compares with <hi>Pſal.</hi> 76. 8, 9. and 138. 4, 5, 6. <hi>Iſa.<g ref="char:punc">▪</g>
+                  </hi> 60. to make it good. And Mr. <hi>Pierce</hi> ſhews excellently how the Goſpel is ſpread throughout the World. As,
+<list>
+                     <item>1. All <hi>Proteſtant</hi> Countries.</item>
+                     <item>2. All the Countries of <hi>Papiſts.</hi>
+                     </item>
+                     <item>3. All the <hi>Greek Churches.</hi>
+                     </item>
+                     <item>4. All the <hi>Muſcovites.</hi>
+                     </item>
+                     <item>5. All the <hi>Aſiaticks</hi> under the Patri<g ref="char:EOLhyphen"/>arch of <hi>Jeruſalem.</hi>
+                     </item>
+                     <item>6. The Chriſtians called <hi>Melchites,</hi> under the Patriarch of <hi>Antioch.</hi>
+                     </item>
+                     <item>7. The <hi>Armenians</hi> under an hundred Biſhops.</item>
+                     <item>8. The Chriſtians called <hi>Jacobites,</hi> mingled with the <hi>Mahometans,</hi> through a great part of <hi>Aſia,</hi> un<g ref="char:EOLhyphen"/>der the Patriarch of <hi>Carmite.</hi>
+                     </item>
+                     <item>9. The Chriſtians under the Patriarch of <hi>Mezul,</hi> about <hi>Aſſyria, Meſo<g ref="char:EOLhyphen"/>potamia, Parthia</hi> and <hi>Media,</hi> (ac<g ref="char:EOLhyphen"/>counted more <hi>than all the Papiſts.)</hi>
+                     </item>
+                     <item>10. The Chriſtians called <hi>Georgians</hi> in <hi>Iberia.</hi>
+                     </item>
+                     <item>11. The Chriſtians called <hi>Circaſſians.</hi>
+                     </item>
+                     <item>12. The Chriſtians called <hi>Mengrelli<g ref="char:EOLhyphen"/>ans.</hi>
+                     </item>
+                     <item>13. The Chriſtians of <hi>Natolia,</hi> un<g ref="char:EOLhyphen"/>der the Patriarch of <hi>Conſtantino<g ref="char:EOLhyphen"/>ple.</hi>
+                     </item>
+                     <item>14. The Kingdoms of <hi>Cazan Afri<g ref="char:EOLhyphen"/>can,</hi> &amp;c. under the Patriarch of <hi>Moſco.</hi>
+                     </item>
+                     <item>15. The Chriſtians called <hi>Maronites,</hi>
+                     </item>
+                     <item>16. The Chriſtian <hi>Indians</hi> of St. <hi>Thome.</hi>
+                     </item>
+                     <item>17. The Chriſtians under the Patri<g ref="char:EOLhyphen"/>arch of <hi>Alexandria,</hi> from the <hi>Gra<g ref="char:EOLhyphen"/>ditan</hi>
+                        <pb n="22" facs="tcp:32962:12"/>
+Straits to the River <hi>Nile.</hi>
+                     </item>
+                     <item>18. The <hi>Abaſſine</hi> Chriſtians in <hi>Ethi<g ref="char:EOLhyphen"/>opia.</hi>
+                     </item>
+                     <item>19. The Chriſtians in <hi>Congo</hi> and <hi>An<g ref="char:EOLhyphen"/>gola.</hi>
+                     </item>
+                     <item>20. All the Chriſtian <hi>Americans</hi> (which are not few) through <hi>New Spain, Caſtella, Nova-Peru,</hi> and <hi>Braſile.</hi>
+                     </item>
+                     <item>21. All the <hi>Engliſh, Dutch,</hi> and <hi>French</hi> Plantations, in <hi>Mexicana,</hi> and the Iſlands on either ſide.</item>
+                  </list>
+               </p>
+               <p>Thus it appears that the Name of Chriſt is known in all the World, <hi>Europe, Aſia, Africa,</hi> and <hi>Ameri<g ref="char:EOLhyphen"/>ca;</hi> though, God knows, the Goſpel in the purity of it, is too little known in all theſe Nations. But this may ſhew that Chriſt died for many more than the <hi>Presbyterians,</hi> and that the whole World has an Object of Faith, and not the leſſer part only.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But Mr. <hi>Barlee</hi> confeſſeth, <hi>p.</hi> 87. That in the general Propoſal of the Goſpel, <hi>Mark</hi> 16. 15. cannot poſſibly lurk any mental Reſervation, or Inſincerity. Yet Mr. <hi>Whitfield</hi> ſaith, <hi>p.</hi> 61. That Chriſt cannot be ſaid ſe<g ref="char:EOLhyphen"/>riouſly to deſire the Salvation of thoſe, from whom he will not remove thoſe things which he knows will hinder their Salvation.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>You are excellent at Self-contradiction; and you that repreſent Chriſt not to be ſerious, becauſe he will not ſave Men whether they will or no, can never be ſerious in your calling upon Men to repent and believe; for whilſt you inwardly believe God hath decreed they ſhall not believe, your Sermons are meer Diſſimulation, or meer Abſurdities. Which made Bi<g ref="char:EOLhyphen"/>ſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> cry out, <hi>That this is the extream Abſurdity</hi> into which the <hi>Armi<g ref="char:EOLhyphen"/>nians</hi> did drive the <hi>Calviniſts.</hi> For, ſaith he,
+<q>What would not a Man fly unto, rather than yield that Chriſt died in no wiſe for the Reprobates; and that none but the Elect had any kind of Title to him; and yet many thouſands ſhould be bound in Conſcience to believe that he died for them, and tied to accept him for their Redeemer and Saviour—whereby they ſhould have believed that, which in it ſelf is moſt untrue, and laid hold on that in which they had no kind of Intereſt?</q>
+               </p>
+               <p>This Reverend Man ſaith further;
+<q>That the Satisfaction of Chriſt was once done for all, the Application is ſtill in doing. The Satisfaction of Chriſt only makes the Sins of Mankind fit for Pardon. All the Sins of Mankind are become Venial, in reſpect of the Price paid to the Father—But all do not obtain actual Remiſſi<g ref="char:EOLhyphen"/>on, becauſe moſt Offenders do not take out or plead their Pardon as they ought to do.—We may ſafely conclude, that the Lamb of God offering himſelf a Sacrifice for the Sins of the whole World, intended, by giving
+<pb n="23" facs="tcp:32962:12"/>
+ſufficient Satisfaction to God's Juſtice, to make the Nature of Man which he aſſumed a fit Object for Mercy, and to prepare a Medicine for the Sins of the whole World, which ſhould be denied to none that intended to take the benefit of it.—In reſpect of his Mercy, he may be counted a kind of univerſal Cauſe of reſtoring our Nature, as <hi>Adam</hi> was of the depraving of it.</q>
+               </p>
+               <p>I will conclude this Dialogue with the 31 <hi>Article</hi> of the <hi>Church of Eng<g ref="char:EOLhyphen"/>land,</hi> which the <hi>Presbyterians,</hi> and other <hi>Calviniſts,</hi> have lately ſubſcribed: And ſhall appeal to their Conſciences how they can reaſonably believe the <hi>Ar<g ref="char:EOLhyphen"/>ticles</hi> made by the <hi>Aſſembly of Divines,</hi> which I have excepted againſt; or be diſpleaſed with me, meerly becauſe I teach, <hi>That Chriſt died for all Men.</hi>
+               </p>
+               <p>The <hi>Article</hi> is this;
+<q>Chriſt is a perfect Redemption, Propitiation, and Satiſ<g ref="char:EOLhyphen"/>faction for all the Sins of the whole World, both Original and Actual.</q>
+               </p>
+               <p>Let them ſtick to this, and then magnify God's ſpecial Grace, and abaſe Man as much as they pleaſe.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>But before we part, let me mind you of the Caſe of <hi>Eſau,</hi> con<g ref="char:EOLhyphen"/>cerning whom <hi>Huldericus Zuinglius</hi> ſaith, <hi>contra Catabap.</hi> p. 172. That we cannot ſay of <hi>Eſau,</hi> being rejected by God, I would to God he had died an Infant. For he could not die, whom the Divine Providence created to this very End, that he might live, and that he might live wickedly.</p>
+            </sp>
+            <sp>
+               <speaker>Bapt.</speaker>
+               <p>Thoſe whom <hi>Zuinglius</hi> called <hi>Catabaptiſts,</hi> were the faithful Aſſer<g ref="char:EOLhyphen"/>tors of the Doctrine of Baptiſms againſt the Church of <hi>Rome,</hi> as we whom you falſly call <hi>Anabaptiſts</hi> are againſt both the Church of <hi>Rome</hi> and the <hi>Presbyterians,</hi> who have changed God's Ordinance, and ſet up your own Inventions inſtead of it.</p>
+               <p>But to the Caſe of <hi>Eſau,</hi> how blaſphemouſly do you ſpeak in ſaying, That the <hi>Divine Providence created him that he might live wickedly?</hi> Al<g ref="char:EOLhyphen"/>though his Caſe is doubtful, (as well as <hi>Solomon</hi>'s, who ſinned with as high a hand as <hi>Eſau</hi> did) yet it is raſhneſs to conclude that either were damned. The Learned obſerve, that ſome of your own Writers believe the contrary. <hi>Luther</hi> in <hi>Gen.</hi> 33. and <hi>Mollerus</hi> in <hi>Malach.</hi> 1. <hi>did not doubt of</hi> Eſau<hi>'s Eter<g ref="char:EOLhyphen"/>nal Bliſs.</hi> Nor durſt <hi>Oecolampadius</hi> to account him a Reprobate, becauſe he knew theſe words, <hi>Rom.</hi> 9. were only ſpoken <hi>by a Figure.</hi> See Mr. <hi>Pierce</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, p. 197. And it is obſerved by Mr. <hi>Sam. Loveday,</hi> in his <hi>Perſonal Reprobate Reprobated,</hi> p. 65. That it hath been the general Opinion of the Ancient Fathers, that <hi>Eſau</hi> in Perſon is ſaved; and he particularizeth of the Ancients, <hi>Jerom, Auguſtine,</hi> and <hi>Anſelm.</hi>
+               </p>
+               <p>
+                  <pb n="24" facs="tcp:32962:13"/>
+The Reaſons why they think <hi>Eſau</hi> was not damned, are three.</p>
+               <p n="1">1. He was fully reconciled to his Brother <hi>Jacob,</hi> notwithſtanding the occaſion of Offence given by <hi>Jacob:</hi> this appears <hi>Gen.</hi> 33.</p>
+               <p n="2">2. He joined with <hi>Jacob</hi> in the burial of their Father <hi>Iſaac, Gen.</hi> 35. 29.</p>
+               <p n="3">3. They ſay he died in the True Religion, and that many of his Poſte<g ref="char:EOLhyphen"/>rity were Godly: It is ſaid to be the general Opinion of the Learned, that that holy Man <hi>Job</hi> was of <hi>Eſau</hi>'s Poſterity; and was that <hi>Jobab,</hi> of whom we read <hi>Gen.</hi> 36. 33. <hi>ex Loveday, idem.</hi>
+               </p>
+               <p>But he that will diligently read <hi>Gen.</hi> 25. 23. will find that there is not a word of hating <hi>Eſau</hi> before he was born, but only it is foreſhewed, that the Nation which ſhould proceed from <hi>Jacob,</hi> ſhould be greater than the Nation which ſhould proceed from <hi>Eſau:</hi> and how could this be any prejudice to the Salvation of <hi>Eſau?</hi> And whereas <hi>Paul</hi> adds, in <hi>Rom.</hi> 9. as it is written, Jacob <hi>have I loved, and</hi> Eſau <hi>have I hated.</hi> To this we ſay, <hi>firſt,</hi> There was no Scripture written at all when <hi>Jacob</hi> and <hi>Eſau</hi> was born, nor for ma<g ref="char:EOLhyphen"/>ny hundred Years after. <hi>Secondly,</hi> When it was written, it is evidently written of the Poſterities of <hi>Jacob</hi> and <hi>Eſau;</hi> and the only cauſe why the Poſterity of <hi>Eſau</hi> were hated, was their Pride and Wickedneſs, particularly againſt the <hi>Iſraelites,</hi> or Seed of <hi>Jacob;</hi> this will appear by reading the pla<g ref="char:EOLhyphen"/>ces where theſe things are written. Firſt the Prophet <hi>Obadiah</hi> is very plain.</p>
+               <p>Ver. 6. <hi>How are the things of</hi> Eſau <hi>ſearched out? how are his hid things ſought up?—For thy violence againſt thy Brother</hi> Jacob, <hi>ſhame ſhall co<g ref="char:EOLhyphen"/>ver thee, and thou ſhalt be cut off for ever. In the day thou ſtoodeſt on the other ſide, in the day that the Strangers carried away captive his Forces—even thou waſt as one of them.—Thou ſhouldeſt not have entered into the Gate of any People in the day of their Calamity—Neither ſhouldeſt thou have ſtood in the croſs way, to cut off thoſe of his that did eſcape.</hi> And, Ver. 3. <hi>The pride of thine Heart hath deceived thee.</hi> And for this Cauſe the Lord hated the Poſterity of <hi>Eſau;</hi> Ver. 8. <hi>Shall I not—even deſtroy the wiſe Men out of</hi> Edom, <hi>and the <g ref="char:V">Ʋ</g>nderſtanding out of the Mount of</hi> Eſau? Yes, he would ſurely puniſh them for their Iniquity.</p>
+               <p>And to the ſame purpoſe are the words of the Prophet <hi>Malachi,</hi> ch. 1. 2, 3, 4. <hi>I loved</hi> Jacob, <hi>and hated</hi> Eſau, <hi>and laid his Mountains and his Heritage waſte, for the Dragons in the Wilderneſs. Whereas</hi> Edom (that is, the Po<g ref="char:EOLhyphen"/>ſterity of <hi>Eſau) ſaith, We are impoveriſhed, but we will return and build the deſolate Places: thus ſaith the Lord of Hoſts, They ſhall build, but I will throw down.</hi> And thus did the Lord hate <hi>Eſau,</hi> that is, the Poſterity of <hi>Eſau,</hi> who lift up themſelves in Pride againſt God, and Cruelty againſt the <hi>Iſraelites.</hi>
+               </p>
+               <p>
+                  <pb n="25" facs="tcp:32962:13"/>
+The truth is, God is no reſpecter of Perſons; and therefore God will hate in this kind, (that is, puniſh) as well <hi>Judah</hi> the Seed of <hi>Jacob,</hi> as <hi>Edom</hi> the Seed of <hi>Eſau;</hi> yea, both theſe Nations, as well as other Nations, when they lift up themſelves with Pride againſt him. Read and conſider, <hi>Jer.</hi> 9. 25, 26. <hi>Behold, the days come, ſaith the Lord, that I will puniſh all them which are circumciſed with the <g ref="char:V">Ʋ</g>ncircumciſed;</hi> Egypt, <hi>and</hi> Judah, <hi>and</hi> Edom, <hi>and the Children of</hi> Amon <hi>and</hi> Moab, <hi>and all that are in the utmoſt Corners, that dwell in the Wilderneſs: For all theſe Nations are uncircumciſed, and all the Houſe of</hi> Iſrael <hi>are uncircumciſed in the Heart.</hi> Lo, here is the Cauſe why God hates Men, even their hardneſs of Heart, and Rebellion againſt him, and nothing elſe.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>WHat I have here preſented to conſideration, is but an <hi>Eſſay;</hi> for I doubt not but that the contrary-minded will quarrel theſe my Labours. Know therefore, that as Occaſion ſhall be offered, you may expect (if God permit) a more ample Account of the things briefly noted in the preceding <hi>Dialogue.</hi>
+            </p>
+            <p>It hath pleaſed God to ſtir up ſome of Learning and Judgment, to ſerve the Truth in theſe Enquiries; of whoſe Learned Labours I hope to give a more full Account, and eſpecially concerning the Doctrine of the Chriſtian Writers from the Apoſtles Days, to the Time of <hi>Auguſtine,</hi> which was more than 400 Years: During which Time this dreadful Doctrine, oppoſed in theſe Treatiſes, was a Stranger to the Church of Chriſt. The Teſtimonies being many and large, it may be convenient to take a further time for the producing of them, as well in the Languages wherein they were firſt writ<g ref="char:EOLhyphen"/>ten, as in our Engliſh Tongue. And the ſame may alſo be neceſſary in re<g ref="char:EOLhyphen"/>ſpect of thoſe Modern Writers, which have ſo greatly eclipſed the Grace of God to Mankind. All which may be done by an induſtrious Hand, though but meanly Learned, becauſe theſe things are made ready to our Hands, and may therefore be made the more ſerviceable to the Truth, when diſperſed in ſmall Volumes, for theſe large Tractates come but into few Hands.</p>
+            <p>And were I never ſo capable to collect and tranſlate thoſe Authors Opini<g ref="char:EOLhyphen"/>ons reſpectively, yet I would rather make uſe of the Collections and Tran<g ref="char:EOLhyphen"/>ſlations already made, by thoſe whoſe Abilities that way are unqueſtionable;
+<pb n="26" facs="tcp:32962:14"/>
+and what they have done of this kind, approved and defended; as may alſo be ſhewed in time convenient.</p>
+            <p>I confeſs I never had experience of the Effects of this Spirit, which makes Men think that God in Chriſt loves but a very few of his Off-ſpring, (I mean Mankind, <hi>Acts</hi> 17. 28.) and that he hates the far greateſt part of them from all Eternity: I ſay, I never had ſo much experience of this Spirit, in its bitter Effects, as ſince I came to reſide in <hi>Norwich.</hi> It hath filled even the higheſt ſort of Profeſſors with ſuch indignation againſt me, meerly for preaching God's Love to all Men, [for let them talk what they pleaſe, this is the thing] that if they <note place="margin">Calvin <hi>burnt</hi> Servetus, <hi>(a learned and pious Bap<g ref="char:EOLhyphen"/>tiſt) for differing in Opinion in Matters of Religion.</hi> Ser<g ref="char:EOLhyphen"/>vetus <hi>is juſtified ſince his Death, and</hi> Calvin <hi>condem<g ref="char:EOLhyphen"/>ned for a falſe Accuſer and</hi> Fratricide, <hi>by</hi> Grotius <hi>and other Learned Men.</hi>
+               </note> could, I ſhould not have had a Place whereon to lay my Head in <hi>Norwich.</hi> And I have been prayed againſt (as I am informed) as a Limb of Antichriſt; and God hath been deſired to confound me with An<g ref="char:EOLhyphen"/>tichriſt, <hi>&amp;c.</hi> ſuch a Fury does this Doctrine of irre<g ref="char:EOLhyphen"/>ſpective Reprobation beget in the Hearts of its Admi<g ref="char:EOLhyphen"/>rers. <hi>A Fraternitate Calvinianâ libera nos Domine.</hi>
+            </p>
+            <p>Now the Lord knows, (to whom I appeal) that I have born theſe things with Patience, (and yet vigorouſly preached the Truth, according to my a<g ref="char:EOLhyphen"/>bility) and I have, and do heartily pray for Mercy for theſe my Perſecutors, and hope by ſuch Endeavours to prevail; praying them timely to conſider the diſmal Effects of their Doctrine, <hi>[that Chriſt died but for a few:]</hi> How many have hereby deſpaired of Mercy, and laid violent Hands upon them<g ref="char:EOLhyphen"/>ſelves! and too many (God knows) about this City. And here the moſt humble Chriſtian is in the greateſt danger.</p>
+            <p>And on the other Hand, how does the careleſs and confident ſort go on in their evil Courſes; concluding from thoſe <hi>peccant Articles</hi> (above recited) that not one more can be damned, nor one leſs can be ſaved, than was de<g ref="char:EOLhyphen"/>creed, (and that unchangeably) to be ſaved or damned from the beginning, yea, from before the World was, yea, from all Eternity: And therefore it is all one whether they be Religious or Irreligious.</p>
+            <p>This is the Doctrine (ſaith a Learned Man) which is calculated for the Kingdom of Satan, than which no Doctrine can more befriend his devou<g ref="char:EOLhyphen"/>ring Deſigns againſt the Souls of Men; for, ſaith he, <hi>A Man may (now) be unjuſt, unmerciful, partial, and full of diſſimulation; hating moſt Men without a cauſe, and yet be moſt like God.</hi> And indeed how ſhould Men that have throughly <hi>imbibed</hi> theſe Principles, be better than they take their God to be? O then beware of a falſe Apprehenſion of God; for when Men have ſet up ſuch an Image of God in their Judgment, they will adore it, and thereby depart from God, and do Miſchief at a venture.</p>
+            <p>
+               <pb n="27" facs="tcp:32962:14"/>
+As concerning God's Election and Reprobation, I ſhall briefly here aſſert my Judgment.</p>
+            <p n="1">1. That God did from the beginning chuſe (in Chriſt) to Salvation, all that part of the fallen Race of <hi>Adam,</hi> that die in their Innocency, or accept of his Mercy and Grace according to the Means he gives them; and this De<g ref="char:EOLhyphen"/>cree proceeds from his own Goodneſs, and is not built upon any Goodneſs in the Creature.</p>
+            <p n="2">2. God did reprobate in his Decree and Determination, from the be<g ref="char:EOLhyphen"/>ginning, all that ſhould, in the ſucceſſive Ages of the World, reject or de<g ref="char:EOLhyphen"/>ſpiſe his Mercy and Goodneſs, which ſhould have led them to Repentance; even <hi>every Soul of Man that doth Evil, as well of the Jews as of the Gen<g ref="char:EOLhyphen"/>tiles,</hi> Rom. 2. 8, 9.</p>
+            <p n="3">3. That no Man that is an unregenerate Sinner, <hi>is actually Elected,</hi> till he turns from Sin, and accepts of God's Mercy by Faith, <hi>Rev.</hi> 17. 14. And that none are actually reprobated till they depart from God, or reject his Mercy and Goodneſs, which he graciouſly holds forth to them, <hi>Rom.</hi> 1. 28. And this is ſo clear, that even thoſe who are our Adverſaries, are forced to allow it. For thus they ſpeak, <hi>Aſſemb. Conf. of Faith,</hi> c. 11. <hi>God did from all Eternity decree to juſtify the Elect—Nevertheleſs they are not juſtified, until the Holy Spirit doth in due time actually apply Chriſt unto them.</hi> And to make this Matter evident to every conſiderate Reader, I ſhall offer this Argument.</p>
+            <p>All that are <hi>actually Elected,</hi> have an Inheritance in the Kingdom of God, and of Chriſt, and none can lay any thing to their Charge, 1 <hi>Pet.</hi> 1. 2, 3, 4, 5. <hi>Rom.</hi> 8. 33.</p>
+            <p>But no unbelieving, Drunkard, Whoremonger, Murtherer, or Idolater, hath any Inheritance in the Kingdom of God, and of Chriſt, <hi>Epheſ.</hi> 5. 5. and theſe Impieties may be laid to their Charge.</p>
+            <p>
+               <hi>Ergo,</hi> No unbelieving Drunkard, Whoremonger, Murderer, or Ido<g ref="char:EOLhyphen"/>later, is <hi>actually Elected.</hi> And yet we know that ſome which have been ſuch, were actually Elected, when they were purged from their Filthineſs, and by Grace renewed.</p>
+            <p>As for <hi>perſonal, irreſpective,</hi> and <hi>unavoidable Reprobation,</hi> it is a Plant which bears moſt diſmal Fruit: An Inſtance we have of it in <hi>Calvin,</hi> who confeſſeth that he procured the burning to Death of <hi>Michael Servetus,</hi> who was a learned and worthy Man, though perhaps in ſome things miſtaken. See <hi>Hug. Grot. in Points of Controv.</hi> Of which inhumane Act I will make this juſt Reflection to prevent the like.</p>
+            <pb n="18" facs="tcp:32962:15"/>
+            <epigraph>
+               <q>
+                  <l>O <hi>Calvin,</hi> why didſt thou (like <hi>Cain)</hi> thy pious Brother ſlay,</l>
+                  <l>Becauſe he could not walk with thee, in thy ſelf-choſen Way?</l>
+                  <l>He did, in Sacred Baptiſm ('tis plain <note n="*" place="margin">See <hi>Calv. Inſt. cont. Servet.</hi>
+                     </note>) the Truth aſſert:</l>
+                  <l>And thou, by chuſing Infancy (as plain) did it pervert:</l>
+                  <l>To which thou needſt wouldſt it diſpenſe, without one word of Truth,</l>
+                  <l>To ſtand by thee in thy defence. Whilſt it with open Mouth</l>
+                  <l>Did ſtand by him whilſt he did plead, Repentance and true Faith,</l>
+                  <l>(In Sinners all) <hi>prerequiſites,</hi> are for that Holy <hi>Bath.</hi>
+                  </l>
+                  <l>Why didſt thou ſlander him, and then his Books to Aſhes burn,</l>
+                  <l>Leſt by his Innocence, thy Wrath ſhould to thy ſhame return?</l>
+                  <l>But ſome did 'ſcape thy furious Flames, and he by them does ſpeak</l>
+                  <l>More Truth than thou his Enemy. But yet ſuppoſe him weak,</l>
+                  <l>(Tho Wiſe and Learned all muſt grant) muſt he therefore be ſlain?</l>
+                  <l>And Charitable too he was, (thou doſt confeſs): How vain</l>
+                  <l>Then muſt thou be him to oppreſs? Let all thy Brood take heed,</l>
+                  <l>They <hi>Reprobate</hi> no Man (as thou) by ſuch an horrid Deed.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>T. G.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32962:15"/>
+         </div>
+      </back>
+   </text>
+</TEI>
